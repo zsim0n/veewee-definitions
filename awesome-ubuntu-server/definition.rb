@@ -36,7 +36,7 @@ Veewee::Session.declare({
    "sudo.sh",
    "vagrant.sh",
    "ruby.sh",
-   "chef.sh",
+ #  "chef.sh",
    "puppet.sh",
    "vbox.sh",
    # "parallels.sh",
