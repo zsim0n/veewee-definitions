@@ -1,5 +1,5 @@
 Veewee::Session.declare({
-  :cpu_count => '1',
+  :cpu_count => '2',
   :memory_size => '2048',
   :disk_size => '65536',
   :disk_format => 'VDI',
@@ -37,7 +37,7 @@ Veewee::Session.declare({
    "vagrant.sh",
    "ruby.sh",
  #  "chef.sh",
-   "puppet.sh",
+ #  "puppet.sh",
    "vbox.sh",
    # "parallels.sh",
    "cleanup.sh"
